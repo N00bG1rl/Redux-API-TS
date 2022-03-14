@@ -7,3 +7,6 @@ const reducers = combineReducers({
 })
 
 export default reducers
+
+// Resolving in RepositoriesList: Property 'repositories' does not exist on type 'DefaultRootState'
+export type RootState = ReturnType<typeof reducers>
