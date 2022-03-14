@@ -1,3 +1,17 @@
+# Simple api search with React, Redux and TypeScript
+
+Learned using Types with Redax
+
+# Created at
+
+March 14, 2022
+
+# Project is created with
+
+- React
+- Redux
+- TypeScript
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
